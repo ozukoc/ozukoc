@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ozukoc
-- 👀 I’m interested in Web development, game development, Python Development and many more...
+- 👋 Hi, I’m Özü Özdeş KOÇ
+- 😎 I'm an artist(painter) and self taught Front-end/Back-end Web Developer.
+- 👀 I’m interested in Web development, game development, Python development and many more...
 - 🌱 I’m currently learning Flask, Django, Vue, TailwindCss, 11ty, Flowbite... and many more
-- 💞️ I’m looking to collaborate on Web development and Python Projects
-- 📫 You can reach me [here](ozdes24@gmail.com)
+- 💞️ I’m looking to collaborate on Web development and Python projects also I'm in search of a team that can grow and improve together as devs.
+- 📫 You can reach me [here](mailto:ozdes24@gmail.com)
 
-<!---
-ozukoc/ozukoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
